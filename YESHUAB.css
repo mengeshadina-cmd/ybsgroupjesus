@@ -1,0 +1,54 @@
+body {
+display:flex 1-column;
+font-family: Times New Roman;
+background-position: scroll;
+background-color:lightblue;
+
+}
+.yeshu{
+background-image:url("god.jpg");
+width :auto;
+height:600px;
+display:flex;
+flex-direction:column;
+background-position:center;
+text-align: center;
+display:flex;
+color: yellow;
+font-family: Times New Roman;
+front-page:bold;}
+.field1{
+color: blue;
+font-size:20px;
+font-family:Times New Roman;
+font-weight:bold;
+display:;}
+.heads{
+color: gold groove;
+width:5px;}
+li{display: inline;}
+a{color: black;}
+.afor{
+color: maroon;
+font-size:20px;
+font-weight:bold;
+}
+img {
+padding-right:5px;
+padding-left:5px;}
+.images {
+    display: flex;
+    gap: 10px; /* space between images */
+}
+
+.imagesss{
+    width: 200px;
+    height:auto;
+}
+.navigate{
+text-align:center;
+}
+.table1{
+text-align:center;
+position: center;
+} 
